@@ -1,10 +1,15 @@
 {
-  "lerna": "2.0.0",
+  "lerna": "2.9.0",
   "packages": [
     "OTTheme/*",
     "OTKit/*",
     "style-guide"
   ],
   "version": "independent",
-  "npmClientArgs": ["--no-package-lock"]
+  "npmClientArgs": ["--no-package-lock"],
+  "command": {
+    "publish": {
+      "allowBranch": "master"
+    }
+  }
 }
