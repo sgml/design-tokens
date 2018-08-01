@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.1 (57501) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon/Fill/ic_arrived_fill</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M14.5,20.9999992 L14.5,16.5962991 C14.5,15.4917297 13.6045695,14.5962991 12.5,14.5962991 L11.5,14.5962991 C10.3954305,14.5962991 9.5,15.4917297 9.5,16.5962991 L9.5,20.9999985 L6,20.9999979 C4.8954305,20.9999979 4,20.1045674 4,18.9999979 L4,9.71102481 C4,9.089189 4.28923849,8.50273063 4.78260435,8.12422053 L10.782599,3.5210269 C11.5007011,2.97009928 12.4992882,2.97009928 13.2173903,3.5210269 L19.2173858,8.12422119 C19.7107512,8.50273092 19.9999896,9.08918853 19.9999902,9.71102373 L20,18.9999979 C20.000001,20.1045674 19.1045712,20.9999987 18.0000017,20.9999997 L14.5,20.9999992 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon/Fill/ic_arrived_fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="ic_arrived_fill" fill="#2D333F" xlink:href="#path-1"></use>
+    </g>
+</svg>
